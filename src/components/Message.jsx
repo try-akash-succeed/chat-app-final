@@ -1,5 +1,9 @@
 import React from 'react'
 
+
+const style = {
+    
+}
 const Message = () => {
   return (
     <div>
